@@ -1,0 +1,27 @@
+img{
+    display: block;
+    margin: auto;
+    width: 25%;
+}
+h1{
+    display: block;
+    margin: auto;
+    width: 25%;
+    color: blue;
+}
+.error-output{
+    margin-left: 10PX;
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+}
+input{
+    margin-left: 50%;
+    font-size: 15px;
+    font-style: italic;  
+}
+div{
+    text-align: center;
+    font-size: x-large;
+    color: black;  
+}
